@@ -1,0 +1,2 @@
+#!/bin/bash
+sass --no-source-map --watch w3.scss w3.css
